@@ -13,4 +13,5 @@
 ![image](https://user-images.githubusercontent.com/41320453/184061744-a437d5eb-bed0-4b22-9d06-dca890f02bf0.png)
 
 - 다음과 같은 함수로 정의된다.
+
 ![image](https://user-images.githubusercontent.com/41320453/184062318-359af1f9-c0b5-4777-a8d7-43e78a241413.png)
